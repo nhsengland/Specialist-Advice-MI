@@ -1,3 +1,5 @@
+Outputs/*.xlsx
+
 *.state
 *.pickle
 *.dcm
